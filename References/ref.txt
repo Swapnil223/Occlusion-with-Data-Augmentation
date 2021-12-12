@@ -1,0 +1,30 @@
+[1] DeVries, Terrance, and Graham W. Taylor. ”Improved regularization of con-
+volutional neural networks with cutout.” arXiv preprint arXiv:1708.04552 (2017).
+
+[2] Krishna Kumar Singh, Hao Yu, Aron Sarmasi, Gautam Pradeep, and Yong
+Jae Lee, Member, IEEE.”Hide-and-Seek: A Data Augmentation Technique for
+Weakly-Supervised Localization and Beyond”arXiv: arXiv:1811.02545 (2018). 5
+
+[3] Chen, Pengguang, et al. ”Gridmask data augmentation.” arXiv preprint
+arXiv:2001.04086 (2020).
+
+[4] Zhang, Hongyi, Moustapha Cisse, Yann N. Dauphin, and David Lopez-Paz.
+”mixup: Beyond empirical risk minimization.” arXiv preprint arXiv:1710.09412
+(2017).
+
+[5] Yun, S., Han, D., Oh, S. J., Chun, S., Choe, J., Yoo, Y. (2019). Cutmix: Regular-
+ization strategy to train strong classifiers with localizable features. In Proceedings of
+the IEEE/CVF International Conference on Computer Vision (pp. 6023-6032).
+
+[6] Redmon, Joseph, and Ali Farhadi. ”Yolov3: An incremental improvement.”
+arXiv preprint arXiv:1804.02767 (2018).
+
+[7] Bochkovskiy, Alexey, Chien-Yao Wang, and Hong-Yuan Mark Liao. ”Yolov4:
+Optimal speed and accuracy of object detection.” arXiv preprint arXiv:2004.10934
+(2020).
+
+[8] Zhong, Zhun, et al. ”Random erasing data augmentation.” Proceedings of the
+AAAI Conference on Artificial Intelligence. Vol. 34. No. 07. 2020.
+
+[9] Konda, Kishore, Xavier Bouthillier, Roland Memisevic, and Pascal Vincent.
+”Dropout as data augmentation.” stat 1050 (2015): 29.
